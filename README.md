@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Sachin Kumar 👋</h2>
 
-I'm a **Full-Stack Engineer** with a passion for building innovative and user-friendly applications. My expertise lies in **front-end development**, but I enjoy exploring the entire tech stack, from machine learning to game development. I’m always eager to learn new technologies and collaborate on exciting projects!
+I'm a **Full-Stack Engineer** with a passion for building innovative and user-friendly applications. My expertise lies in **front-end development**, but I enjoy exploring the entire tech stack, from DevOps and backend development to game development. I’m always eager to learn new technologies and collaborate on exciting projects!
 
 ---
 
