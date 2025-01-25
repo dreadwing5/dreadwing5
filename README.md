@@ -1,6 +1,4 @@
-Here’s a personalized README file based on your data and preferences. I’ve incorporated your projects, interests, and GitHub activity to create a professional and engaging profile:
 
----
 
 <h2 align="center">Hey there, I'm Sachin Kumar 👋</h2>
 
