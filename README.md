@@ -76,5 +76,3 @@ I believe that the best way to learn is by building. That’s why I’m always w
 </h4>
 
 ---
-
-This README is designed to showcase your skills, projects, and personality while encouraging collaboration. Feel free to customize it further to match your style! 🚀
