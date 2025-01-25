@@ -35,7 +35,6 @@ Here’s a snapshot of my GitHub activity:
 
 ---
 
----
 
 ### 📫 **Let’s Connect!**
 I’m always open to collaboration, discussions, or just a friendly chat. Feel free to reach out:
@@ -53,7 +52,6 @@ I’m always open to collaboration, discussions, or just a friendly chat. Feel f
 ---
 
 
----
 
 ### 🛠 **Tools & Technologies**
 Here are some of the tools and technologies I work with:
@@ -74,4 +72,3 @@ I believe that the best way to learn is by building. That’s why I’m always w
   Thanks for visiting my profile! 😄
 </h4>
 
----
