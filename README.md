@@ -16,11 +16,10 @@ I'm a **Full-Stack Engineer** with a passion for building innovative and user-fr
 ### 🔥 **Featured Projects**
 Here are some of my notable projects:
 
-1. **[Emithru](https://github.com/dreadwing5/emithru):** A project focused on simplifying and optimizing data emission and processing.
+1. **[Emithru](https://github.com/dreadwing5/emithru):** This platform provides comprehensive tools for educators, mentors, and mentees as part of the digital education ecosystem.
 2. **[Algorithm Visualizer](https://github.com/dreadwing5/algorithm-visualizer):** An interactive tool to visualize algorithms and data structures.
 3. **[Laser Warfare (Unity)](https://github.com/dreadwing5/laser-warfare-unity):** A fun and engaging game developed using Unity.
-4. **[Tourify](https://github.com/dreadwing5/Tourify):** A web application designed to enhance travel experiences.
-5. **[AI_ML_Lab_Program](https://github.com/dreadwing5/AI_ML_Lab_Program):** A collection of machine learning experiments and programs.
+4. **[Restore](https://github.com/dreadwing5/Reactivities):** Reactivities is a project designed to help developers learn and implement Clean Architecture principles using .NET Core for the backend and React with TypeScript for the frontend. 
 
 ---
 
