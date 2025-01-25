@@ -19,7 +19,7 @@ Here are some of my notable projects:
 1. **[Emithru](https://github.com/dreadwing5/emithru):** This platform provides comprehensive tools for educators, mentors, and mentees as part of the digital education ecosystem.
 2. **[Algorithm Visualizer](https://github.com/dreadwing5/algorithm-visualizer):** An interactive tool to visualize algorithms and data structures.
 3. **[Laser Warfare (Unity)](https://github.com/dreadwing5/laser-warfare-unity):** A fun and engaging game developed using Unity.
-4. **[Restore](https://github.com/dreadwing5/Reactivities):** Reactivities is a project designed to help developers learn and implement Clean Architecture principles using .NET Core for the backend and React with TypeScript for the frontend. 
+4. **[Reactvities](https://github.com/dreadwing5/Reactivities):** Reactivities is a project designed to help developers learn and implement Clean Architecture principles using .NET Core for the backend and React with TypeScript for the frontend. 
 
 ---
 
