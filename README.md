@@ -1,19 +1,19 @@
 
 
-<h2 align="center">Hey there, I'm Sachin Kumar 👋</h2>
+<h2 align="center">Hey there, I'm Sachin Kumar</h2>
 
 I'm a **Full-Stack Engineer** with a passion for building innovative and user-friendly applications. My expertise lies in **front-end development**, but I enjoy exploring the entire tech stack, from DevOps and backend development to game development. I’m always eager to learn new technologies and collaborate on exciting projects!
 
 ---
 
-### 🚀 **About Me**
-- 💻 **Skills:** Front-end development, C#, Typescript, React, Node.js,  Game Development, and more.
-- 🌟 **Interests:** I love diving into new technologies, building web applications, and creating interactive experiences.
-- 🌐 **Connect with Me:** Let’s collaborate or chat about tech! Reach out to me on [Twitter](https://twitter.com/dreadwing5) or [LinkedIn](https://www.linkedin.com/in/kysachin/).
+### **About Me**
+- **Skills:** Front-end development, C#, Typescript, React, Node.js,  Game Development, and more.
+- **Interests:** I love diving into new technologies, building web applications, and creating interactive experiences.
+- **Connect with Me:** Let’s collaborate or chat about tech! Reach out to me on [Twitter](https://twitter.com/dreadwing5) or [LinkedIn](https://www.linkedin.com/in/kysachin/).
 
 ---
 
-### 🔥 **Featured Projects**
+### **Featured Projects**
 Here are some of my notable projects:
 
 1. **[Emithru](https://github.com/dreadwing5/emithru):** This platform provides comprehensive tools for educators, mentors, and mentees as part of the digital education ecosystem.
@@ -23,7 +23,7 @@ Here are some of my notable projects:
 
 ---
 
-### 📊 **GitHub Stats**
+### **GitHub Stats**
 Here’s a snapshot of my GitHub activity:
 
 <div align="center">
@@ -36,7 +36,7 @@ Here’s a snapshot of my GitHub activity:
 ---
 
 
-### 📫 **Let’s Connect!**
+### **Let’s Connect!**
 I’m always open to collaboration, discussions, or just a friendly chat. Feel free to reach out:
 
 - [Twitter](https://twitter.com/dreadwing5)
@@ -46,14 +46,14 @@ I’m always open to collaboration, discussions, or just a friendly chat. Feel f
 ---
 
 <h4 align="center">
-  Let’s build something amazing together! 🚀
+  Let’s build something amazing together! 
 </h4>
 
 ---
 
 
 
-### 🛠 **Tools & Technologies**
+### **Tools & Technologies**
 Here are some of the tools and technologies I work with:
 
 - **Front-end:** React, NextJs Typescript, Javascript  
@@ -63,12 +63,12 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-### 📌 **Fun Fact**
+### **Fun Fact**
 I believe that the best way to learn is by building. That’s why I’m always working on new projects and experimenting with different technologies. Let’s create something awesome together!
 
 ---
 
 <h4 align="center">
-  Thanks for visiting my profile! 😄
+  Thanks for visiting my profile!
 </h4>
 
