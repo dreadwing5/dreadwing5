@@ -7,7 +7,7 @@ I'm a **Full-Stack Engineer** with a passion for building innovative and user-fr
 ---
 
 ### **About Me**
-- **Skills:** Front-end development, C#, Typescript, React, Node.js,  Game Development, and more.
+- **Skills:** Front-end development, C#, Typescript, React, .NET Core, and more.
 - **Interests:** I love diving into new technologies, building web applications, and creating interactive experiences.
 - **Connect with Me:** Let’s collaborate or chat about tech! Reach out to me on [Twitter](https://twitter.com/dreadwing5) or [LinkedIn](https://www.linkedin.com/in/kysachin/).
 
